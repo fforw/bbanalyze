@@ -1,0 +1,1 @@
+{"name":"Bbanalyze","tagline":"Browserify bundle size analysis","body":"# Browserify Bundle Analyze\r\n\r\nSimple size analysis for browserify bundles.\r\n\r\nUsage: ```node index.js <bundle-file>```\r\n\r\nBundles must be generated with option fullPaths: true\r\n\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
